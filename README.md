@@ -39,7 +39,7 @@
  <br/>
  <br/>
  
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jamjami98)](https://solved.ac/jamjami98)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jamjam98)](https://solved.ac/jamjam98)
 
 <br/>
 <br/>
