@@ -1,11 +1,11 @@
 ## Hi, I'm Jaemin. :wave: ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
- <br/>
-🏢 (21.05 ~ 23.04) 한국화학물질관리협회 녹색화학팀 연구원 <br/>
-🏢 (23.05 ~ 23.11) 한국경영인증원 지속가능경영센터 연구원
 <br/>
 🎓 (17.03 ~ 21.02) 홍익대학교 바이오화학공학/사물인터넷공학 전공  <br/>
 ✏️ (23.11 ~ 24.05) SK T아카데미 빅데이터분석가과정 4기  <br/>
+ <br/>
+🏢 (21.05 ~ 23.04) 한국화학물질관리협회 녹색화학팀 연구원 <br/>
+🏢 (23.05 ~ 23.11) 한국경영인증원 지속가능경영센터 연구원  <br/>
 <br/>
 💻 interest in Data Analysis & Data Science <br/>
 ✉️ hjmin98102374@gmail.com  <br/>
