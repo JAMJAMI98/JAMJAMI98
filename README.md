@@ -9,7 +9,7 @@
 <br/>
 💻 interest in Data Analysis & Data Science <br/>
 ✉️ hjmin98102374@gmail.com  <br/>
-🔗 <a href="https://blog.naver.com/jam_jaming"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/><a href="https://blog.naver.com/2hannseok"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Blog&logoColor=white"/></a> 
+🔗 <a href="https://blog.naver.com/jam_jaming"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/><a href="https://blog.naver.com/jam_jaming"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Blog&logoColor=white"/></a> 
  <br/>
  <br/>
 
