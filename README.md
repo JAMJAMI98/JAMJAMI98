@@ -1,18 +1,5 @@
 ## Hi, I'm Jaemin. :wave: ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
-<br/>
-🎓 (17.03 ~ 21.02) 홍익대학교 화학공학/사물인터넷공학 전공  <br/>
-✏️ (23.11 ~ 24.05) SK T아카데미 빅데이터분석가과정 4기  <br/>
- <br/>
-🏢 (21.05 ~ 23.04) 한국화학물질관리협회 녹색화학팀 연구원 <br/>
-🏢 (23.05 ~ 23.11) 한국경영인증원 지속가능경영센터 연구원  <br/>
-<br/>
-💻 interest in Data Analysis & Data Science <br/>
-✉️ hjmin98102374@gmail.com  <br/>
-🔗 https://jam-jaming.tistory.com <br/>
-🔗 <a href="https://blog.naver.com/jam_jaming"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/><a href="https://blog.naver.com/jam_jaming"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Blog&logoColor=white"/></a> 
- <br/>
- <br/>
 
  <div align="center"> 
 
